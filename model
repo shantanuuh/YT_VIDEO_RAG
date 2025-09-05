@@ -1,0 +1,22 @@
+import os
+from huggingface_hub import hf_hub_download
+
+# Path where the quantized model will be saved
+local_dir = "/content/drive/MyDrive/quantized_models"
+model_file = "Mistral-7B-Instruct-v0.3-Q4_K_M.gguf"
+model_path = os.path.join(local_dir, model_file)
+
+# Create directory if it doesn't exist
+os.makedirs(local_dir, exist_ok=True)
+
+# ✅ Check if model already exists
+if not os.path.exists(model_path):
+    print("📥 Model not found. Downloading from Hugging Face...")
+    model_path = hf_hub_download(
+        repo_id="bartowski/Mistral-7B-Instruct-v0.3-GGUF",
+        filename=model_file,
+        local_dir=local_dir
+    )
+    print(f"✅ Model downloaded and saved to: {model_path}")
+else:
+    print(f"✅ Model already exists: {model_path}")
