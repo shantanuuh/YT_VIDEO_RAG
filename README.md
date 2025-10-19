@@ -4,8 +4,9 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A **Streamlit web application** that enables natural language conversations with YouTube videos using Retrieval-Augmented Generation (RAG). Fully local processing with Ollama and Mistral LLM - no cloud APIs required.
+A Streamlit web application that enables natural language conversations with YouTube videos using Retrieval-Augmented Generation (RAG). Users can interactively ask questions about a video and receive accurate, context-aware answers instantly. The system performs fully local processing using Ollama and Mistral LLM, with audio transcription via Whisper and semantic search with ChromaDB—no cloud APIs are required, ensuring privacy and offline functionality.
 
+This project demonstrates practical expertise in speech-to-text transcription, semantic search, and LLM-based retrieval, making it a valuable tool for learning, research, content analysis, and as a portfolio showcase of advanced AI development skills.
 ---
 
 ## ✨ Key Features
