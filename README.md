@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - 📧 Email: shantanuhakulkar4@gmail.com
 - 📍 Location: Mumbai, Maharashtra, India
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [Shantanu Harkulkar](https://www.linkedin.com/in/shantanu-harkulkar-563b38269/)
 - 🐙 GitHub: [@shantanuuh](https://github.com/shantanuuh))
 
 ---
