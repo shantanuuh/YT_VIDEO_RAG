@@ -287,10 +287,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Shantanu Harkulkar**
 
 - 📧 Email: shantanuhakulkar4@gmail.com
-- 📱 Phone: +91 8879528437
 - 📍 Location: Mumbai, Maharashtra, India
 - 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 🐙 GitHub: [@shantanuuh](https://github.com/shantanuuh))
 
 ---
 
